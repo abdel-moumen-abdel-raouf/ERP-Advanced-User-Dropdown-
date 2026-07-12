@@ -1,0 +1,6 @@
+{
+  "name": "ERP Advanced User Dropdown",
+  "description": "A high-performance, fully customizable dynamic User Dropdown component for ERP systems with support for themes, directions, animations, and clean SCSS/HTML exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
